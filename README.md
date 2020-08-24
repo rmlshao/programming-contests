@@ -1,2 +1,2 @@
 # programming-contests
-My solutions to various programming contests I participated in
+My solutions to problems in the various programming contests I participated in
